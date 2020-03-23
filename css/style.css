@@ -1,0 +1,39 @@
+.box-0{
+	
+}
+.jumbotron {
+	padding: 100px 100px 100px 1px;
+	background-color: #3366ff;
+	
+}
+
+.box-1{
+	padding: 10px 10px 10px 10px;
+}
+
+.box-2{
+	padding-top: 1px;
+	padding-bottom: 450px;
+}
+.box-3{
+	padding-top: 220px;
+}
+.box-4{
+	padding-top: 100px;
+	padding-bottom: 250px;
+}
+.T1{
+	padding-top: 100px;
+	padding-bottom: 50px;
+}
+.navbar-brand{
+	font-size: 30px;
+}
+.active{
+	background-color: ;
+
+}
+.container h1 {
+	font-size: 55px;
+
+}
